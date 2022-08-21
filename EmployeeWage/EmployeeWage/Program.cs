@@ -4,11 +4,11 @@ namespace Program
     class Program
     {
         public static void Main(string[] args)
-        { 
+        {
 
-            //UC2
-            DailyEmpWage prg = new DailyEmpWage();
-            prg.CheckDailyEmpWg();
+            //UC3
+            PartTimeEmpWage prg = new PartTimeEmpWage();
+            prg.CheckPartTimeEmpWage();
         }
     }
 }
