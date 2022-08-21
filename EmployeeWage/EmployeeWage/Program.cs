@@ -6,8 +6,8 @@ namespace Program
         public static void Main(string[] args)
         {
 
-            //UC4
-            SwitchCaseProb prg = new SwitchCaseProb();
+            //UC5
+            CalculatingWagesForMonth prg = new CalculatingWagesForMonth();
             prg.CalculateEmpWage();
         }
     }
