@@ -21,6 +21,7 @@ namespace Program
             int value = EmpCheck.Next(0, 2);
             if (value == EmpPresent)
             {
+
                 Console.WriteLine("Employee is Present");
             }
             else
