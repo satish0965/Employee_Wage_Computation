@@ -6,8 +6,8 @@ namespace Program
         public static void Main(string[] args)
         {
 
-            //UC5
-            CalculatingWagesForMonth prg = new CalculatingWagesForMonth();
+            //UC6
+            EmployeeWage prg = new EmployeeWage();
             prg.CalculateEmpWage();
         }
     }
